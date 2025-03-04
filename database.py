@@ -1,0 +1,1 @@
+print("Duomenu baze")
