@@ -1,1 +1,1 @@
-print("Kategorijų blokas")
+print("Kategorijų sąrašas")
